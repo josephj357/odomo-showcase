@@ -2,9 +2,9 @@
 
 The back office for independent car rental hosts: bookings, deposits, signed rental agreements and GPS tracking in one app, with an AI receptionist who answers the business phone so the host doesn't have to.
 
-[![Watch the Odomo launch video](media/poster.jpg)](media/odomo-launch-16x9.mp4)
+https://github.com/user-attachments/assets/493892ba-efc4-48bc-8f72-59b1651a92b7
 
-<sub>▶ Launch video: [landscape 16:9 · 28s](media/odomo-launch-16x9.mp4) · [vertical 9:16 for mobile · 28s](media/odomo-launch-9x16.mp4)</sub>
+<sub>▶ 28s launch video · [vertical 9:16 cut for mobile](media/odomo-launch-9x16.mp4) · [download landscape](media/odomo-launch-16x9.mp4)</sub>
 
 **Live:** https://odomo.ai · **Demo workspace (no signup):** https://odomo.ai/demo
 
